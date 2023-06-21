@@ -1,1 +1,10 @@
-# Empty CSS file for your own CSS
+.main-footer{
+    background-color: #f4f4f2;
+}
+
+.jumbotron{
+    background-color: #ff494b;
+}
+.rights{
+    background-color: #d3d5d5;
+}
